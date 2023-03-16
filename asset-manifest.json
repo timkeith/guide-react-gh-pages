@@ -1,18 +1,16 @@
 {
   "files": {
-    "main.css": "/guide-react-gh-pages/static/css/main.eb39d255.css",
-    "main.js": "/guide-react-gh-pages/static/js/main.0e63ca9e.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/guide-react-gh-pages/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/guide-react-gh-pages/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/guide-react-gh-pages/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/guide-react-gh-pages/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/guide-react-gh-pages/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "main.css": "/guide-react-gh-pages/static/css/main.073c9b0a.css",
+    "main.js": "/guide-react-gh-pages/static/js/main.5e02efd7.js",
+    "static/js/787.1915dac9.chunk.js": "/guide-react-gh-pages/static/js/787.1915dac9.chunk.js",
+    "static/media/logo.svg": "/guide-react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/guide-react-gh-pages/index.html",
-    "main.eb39d255.css.map": "/guide-react-gh-pages/static/css/main.eb39d255.css.map",
-    "main.0e63ca9e.js.map": "/guide-react-gh-pages/static/js/main.0e63ca9e.js.map"
+    "main.073c9b0a.css.map": "/guide-react-gh-pages/static/css/main.073c9b0a.css.map",
+    "main.5e02efd7.js.map": "/guide-react-gh-pages/static/js/main.5e02efd7.js.map",
+    "787.1915dac9.chunk.js.map": "/guide-react-gh-pages/static/js/787.1915dac9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb39d255.css",
-    "static/js/main.0e63ca9e.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5e02efd7.js"
   ]
 }
